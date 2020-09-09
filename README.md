@@ -12,12 +12,12 @@ python Video2Frames.py
 ```  
 
 ## 2.Select a directory containing videos
-![avatar](/ui_captures/select_dir.png)
+![avatar](ui_captures/select_dir.png)
 
 ## 3.Input frame extraction step
-Input an integer (between 1 and 1000) as the step for frame extraction.
-By default, the step is 1.
-![avatar](/ui_captures/input_step.png)
+Input an integer (between 1 and 1000) as the step for frame extraction.  
+By default, the step is 1.  
+![avatar](ui_captures/input_step.png)
 
 ## 4.Start the conversion!
-![avatar](/ui_captures/select_dir.png)
+![avatar](ui_captures/start_conversion.png)
