@@ -13,8 +13,9 @@ python Video2Frames.py
 ```  
 
 ## 2.Select a directory containing videos
-<div align=center>![select_dir](/ui_captures/select_dir.PNG)
-
+<center>
+![select_dir](/ui_captures/select_dir.PNG)
+</center>
 ## 3.Input frame extraction step
 Input an integer (between 1 and 1000) as the step for frame extraction.  
 By default, the step is 1.  
